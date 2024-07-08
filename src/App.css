@@ -42,7 +42,7 @@ h1 {
   margin-top: 1rem;
   margin-bottom: 2rem;
   width: 300px;
-  color: #fff;
+  color: hsl(220, 40%, 45%);
 }
 
 .todo-input::placeholder {
@@ -51,7 +51,7 @@ h1 {
 
 .todo-btn {
   background: #ffffff;
-  color: #fff;
+  color: #000000;
   border: none;
   padding: 0.55rem;
   cursor: pointer;
